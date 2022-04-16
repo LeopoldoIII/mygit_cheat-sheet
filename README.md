@@ -1,5 +1,5 @@
 
-# How do you rename a Git commit pushed to GitHub [source](https://stackoverflow.com/questions/11603473/how-do-you-rename-a-git-commit-pushed-to-github)
+# How to rename a Git commit pushed [source](https://stackoverflow.com/questions/11603473/how-do-you-rename-a-git-commit-pushed-to-github)
 
 ```
 git reset --soft HEAD~1
