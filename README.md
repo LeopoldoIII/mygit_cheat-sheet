@@ -7,3 +7,10 @@ git add .
 git commit -m "custom message"
 git push -u -f origin master
 ```
+# How to Revert a Commit in Git
+
+From visual studio code, install gitLens
+With GitLens installed, open your repo and right-click on the commit from the commits view in the side bar to get the 
+`Revert Commit` option
+
+<img width="673" alt="image" src="https://user-images.githubusercontent.com/26559577/167340022-a73ba590-b570-4606-a175-02029e95f197.png">
