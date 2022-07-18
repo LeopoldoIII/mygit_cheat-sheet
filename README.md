@@ -14,3 +14,5 @@ With GitLens installed, open your repo and right-click on the commit from the co
 `Revert Commit` option
 
 <img width="673" alt="image" src="https://user-images.githubusercontent.com/26559577/167340022-a73ba590-b570-4606-a175-02029e95f197.png">
+
+[multiple-github-accounts](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
