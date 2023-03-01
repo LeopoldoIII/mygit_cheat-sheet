@@ -1,3 +1,6 @@
+    git config  user.name "User"
+    git config  user.email "user.rx@gmail.com"
+
 
 # How to rename a Git commit pushed [source](https://stackoverflow.com/questions/11603473/how-do-you-rename-a-git-commit-pushed-to-github)
 
