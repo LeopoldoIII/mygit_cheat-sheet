@@ -1,3 +1,8 @@
+# initial branch 
+    git init --initial-branch=main
+
+# git config user name/email
+
     git config  user.name "User"
     git config  user.email "user.rx@gmail.com"
 
