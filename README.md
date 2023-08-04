@@ -28,13 +28,19 @@ With GitLens installed, open your repo and right-click on the commit from the co
 # Git branch rename 
     local 
     
-    git checkout OLDNAME
-    git branch -m OLDNAME NEWNAME
+    git checkout oldName
+    git branch -m oldName newName
 
     remote 
 
-    git push origin --delete old-name
+    git push origin --delete OldName
     commit
     push 
 
         
+# update branch 
+
+    git checkout updatedBranch
+    git pull 
+    git checkout yourBrach
+    git merge updatedBranch 
