@@ -44,3 +44,12 @@ With GitLens installed, open your repo and right-click on the commit from the co
     git pull 
     git checkout yourBrach
     git merge updatedBranch 
+
+# lfs 
+
+install 
+    
+    brew install git-lfs
+add file then create commit and push 
+
+    git lfs track *.mp4
